@@ -27,7 +27,7 @@ class _PrincipalState extends State<Principal> {
               SizedBox(
                 height: 20,
               ),
-              Text("Informativo nuevo"),
+              Text("Informativo nuevo 956"),
             ],
           ),
         ));
